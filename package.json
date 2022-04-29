@@ -1,0 +1,19 @@
+{
+  "name": "encryptosumsimple",
+  "version": "0.1.5",
+  "description": "Criptografia de soma simples",
+  "main": "cryptoSumSimple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolassmaniotto/encryptoSumSimple.git"
+  },
+  "author": "“Nicolas <“nicolasantoniosmaniotto@gmail.com”>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Nicolassmaniotto/encryptoSumSimple/issues"
+  },
+  "homepage": "https://github.com/Nicolassmaniotto/encryptoSumSimple#readme"
+}
